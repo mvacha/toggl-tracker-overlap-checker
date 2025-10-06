@@ -1,6 +1,6 @@
 # Toggl Tracker Overlap Checker
 
-Check for reports overlap in exported CSV reports from toggl tracker.
+Check for reports overlap in exported CSV reports (legacy) from toggl tracker.
 
 ## Getting Started
 
@@ -45,7 +45,7 @@ In Toggl Tracker website:
 * Select detailed
 * Select last month
 * Click on export report (top/right download icon)
-* Click on "download CSV"
+* Click on "download CSV (Legacy)"
 * Wait for download to complete
 
 Run the script with exported report:
